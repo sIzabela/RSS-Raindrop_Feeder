@@ -25,7 +25,7 @@ This script will allow you to upload your favorite RSS Feeds to Raindrop.io.
 
 ## How to use it?
 
-### PowerShell
+### Method 1: PowerShell
 
 Standard, manual launch of the script
 
@@ -39,7 +39,7 @@ Standard, manual launch of the script
     & "C:/path/to/python.exe" "C:/path/to/RSS-Raindrop_Feeder/main.py"
     ```
 
-### Task Scheduler (Windows)
+### Method 2: Task Scheduler (Windows)
 
 Adding a task in the Task Scheduler according to the instructions below, will ensure that the script will run fairly regularly and automatically (after system startup and when idle), so that the indicated RSS Feeds will be added to Raindrop.io on a regular basis.
 
