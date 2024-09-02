@@ -19,7 +19,7 @@ This script will allow you to upload your favorite RSS Feeds to Raindrop.io.
     and add the addresses of your RSS Feeds to this file. Each on a separate line.
 
 -   In the end replace the Xs on the `.env` file with your:
-    -   [Raindrop TOKEN](https://developer.raindrop.io/v1/authentication/token).
+    -   [Raindrop TOKEN](https://developer.raindrop.io/v1/authentication/token)
     -   path to the downloaded RSS-Raindrop_Feeder package on your disk
     -   tags which will be automatically added to uploaded articles
 
